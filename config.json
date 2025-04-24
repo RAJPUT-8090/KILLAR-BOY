@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "LEJEND",
-    "PREFIX": "/",
+    "PREFIX": "#",
     "ADMINBOT": [
         "100001995832516"
     ],
